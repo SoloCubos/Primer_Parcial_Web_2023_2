@@ -41,6 +41,12 @@ footer {
     min-height: 80px;
     min-width: 80px;
 } 
+.footer-right{
+    align-items: center;
+}
+p{
+    text-align: right;
+}
 ul{
     list-style-type: none;
 }
