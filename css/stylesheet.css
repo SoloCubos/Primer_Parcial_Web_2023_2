@@ -1,0 +1,26 @@
+header{
+    max-width: 1200px;
+    min-height: 120px;
+}
+.contenedor{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+main{
+    min-height: 400px;
+    
+    
+}
+aside{
+    min-height: 400px;
+    
+    
+}
+.contenedor-footer{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+footer {
+    min-height: 80px;
+    min-width: 80px;
+} 
